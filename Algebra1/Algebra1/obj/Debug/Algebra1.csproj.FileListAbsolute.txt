@@ -8,3 +8,13 @@ C:\Users\Patrick Dale\Desktop\C#\Algebra1\Algebra1\obj\Debug\Algebra1.csproj.Gen
 C:\Users\Patrick Dale\Desktop\C#\Algebra1\Algebra1\obj\Debug\Algebra1.csproj.CoreCompileInputs.cache
 C:\Users\Patrick Dale\Desktop\C#\Algebra1\Algebra1\obj\Debug\Algebra1.exe
 C:\Users\Patrick Dale\Desktop\C#\Algebra1\Algebra1\obj\Debug\Algebra1.pdb
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\bin\Debug\Algebra1.exe.config
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\bin\Debug\Algebra1.exe
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\bin\Debug\Algebra1.pdb
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\obj\Debug\Algebra1.csprojResolveAssemblyReference.cache
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\obj\Debug\Algebra1.Form1.resources
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\obj\Debug\Algebra1.Properties.Resources.resources
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\obj\Debug\Algebra1.csproj.GenerateResource.Cache
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\obj\Debug\Algebra1.csproj.CoreCompileInputs.cache
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\obj\Debug\Algebra1.exe
+C:\Users\pdrug\Desktop\C_Sharp\Algebra1\Algebra1\obj\Debug\Algebra1.pdb
